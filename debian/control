@@ -1,0 +1,12 @@
+Source: fortunes-desproges
+Section: games
+Priority: extra
+Maintainer: Cyrille Biot <cyrille@cbiot.fr>
+Build-Depends: debhelper (>= 9)
+Homepage: https://github.com/CyrilleBiot/fortunes-desproges
+
+Package: fortunes-desproges
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, fortune-mod 
+Homepage: https://github.com/CyrilleBiot/fortunes-desproges
+Description: Fortunes de Pierre Desproges

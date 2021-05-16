@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "-----------------------------------------------------------------------"
+echo "Syntax : fortune desproges"
+echo "Automatic fortune in your term : "
+echo "Add in your ~/.bashrc and add a line like this : fortune  desproges"
+exit 0
