@@ -4,9 +4,11 @@
 
 Just download the debian package and install it.
 
-```wget https://github.com/CyrilleBiot/fortunes-desproges/raw/master/fortunes-desproges_0.0.1_all.deb
+```
+wget https://github.com/CyrilleBiot/fortunes-desproges/raw/master/fortunes-desproges_0.0.1_all.deb
 su -
-dpkg -i fortunes-desproges_0.0.1_all.deb```
+dpkg -i fortunes-desproges_0.0.1_all.deb
+```
 
 
 ## Usage
