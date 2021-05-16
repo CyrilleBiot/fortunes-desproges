@@ -19,3 +19,11 @@ dpkg -i fortunes-desproges_0.0.1_all.deb
 ### Via .bashrc
 Add in your ~/.bashrc and add a line like this : fortune  desproges
 
+
+## More
+You want to create your own fortunes file. Don't forget this command to create your .dat file
+
+```
+strfile -c % quotes quotes.dat
+
+```
